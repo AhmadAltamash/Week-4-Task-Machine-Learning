@@ -1,0 +1,7 @@
+Model,Accuracy,Precision,Recall,F1,ROC_AUC,ROC_AUC_std
+Baseline (always 'left'),0.5192,0.5192,1.0,0.6835,0.5,0.0
+Logistic Regression,0.6647,0.6759,0.6815,0.6777,0.7111,0.0341
+Decision Tree,0.6224,0.6222,0.6951,0.6518,0.6522,0.0507
+Random Forest,0.641,0.652,0.6642,0.6568,0.6944,0.0511
+Gradient Boosting,0.6353,0.6507,0.6519,0.6498,0.6927,0.0426
+KNN,0.6359,0.6533,0.642,0.6462,0.6748,0.0517

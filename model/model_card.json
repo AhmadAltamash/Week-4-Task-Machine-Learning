@@ -1,0 +1,91 @@
+{
+  "model": "Logistic Regression in a scikit-learn Pipeline (impute -> scale / one-hot -> model)",
+  "trained_on": "2026-10-09",
+  "sklearn_version": "1.8.0",
+  "data": {
+    "rows": 650,
+    "train_rows": 520,
+    "test_rows": 130,
+    "synthetic": true
+  },
+  "features": {
+    "numeric": [
+      "Age",
+      "Experience_Years",
+      "Monthly_Income",
+      "Satisfaction_Score",
+      "Weekly_Work_Hours"
+    ],
+    "categorical": [
+      "Education",
+      "Department",
+      "City",
+      "Job_Level"
+    ]
+  },
+  "allowed_categories": {
+    "Education": [
+      "Bachelor",
+      "High School",
+      "Master",
+      "PhD"
+    ],
+    "Department": [
+      "Engineering",
+      "Finance",
+      "HR",
+      "Operations",
+      "Sales"
+    ],
+    "City": [
+      "Bengaluru",
+      "Delhi",
+      "Kolkata",
+      "Patna",
+      "Pune"
+    ],
+    "Job_Level": [
+      "Junior",
+      "Mid",
+      "Senior"
+    ]
+  },
+  "numeric_ranges_seen": {
+    "Age": [
+      21.0,
+      60.0
+    ],
+    "Experience_Years": [
+      0.0,
+      40.0
+    ],
+    "Monthly_Income": [
+      18000.0,
+      48240.0
+    ],
+    "Satisfaction_Score": [
+      1.0,
+      5.0
+    ],
+    "Weekly_Work_Hours": [
+      25.0,
+      62.4
+    ]
+  },
+  "best_params": {
+    "model__C": 0.01
+  },
+  "test_metrics": {
+    "accuracy": 0.6769,
+    "precision": 0.6761,
+    "recall": 0.7164,
+    "f1": 0.6957,
+    "roc_auc": 0.7022
+  },
+  "test_roc_auc_95_interval": [
+    0.607,
+    0.796
+  ],
+  "baseline_accuracy": 0.5154,
+  "intended_use": "Educational demonstration of an ML deployment. Not for employment decisions."
+}

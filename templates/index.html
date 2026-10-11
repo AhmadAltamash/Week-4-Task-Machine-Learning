@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Employee Attrition Predictor</title>
+<style>
+  body { font-family: system-ui, Arial, sans-serif; max-width: 760px; margin: 2rem auto; padding: 0 1rem; color: #222; }
+  h1 { font-size: 1.5rem; margin-bottom: .2rem; }
+  .sub { color: #666; margin-top: 0; }
+  form { display: grid; grid-template-columns: 1fr 1fr; gap: .8rem 1rem; margin: 1.2rem 0; }
+  label { display: flex; flex-direction: column; font-size: .85rem; color: #444; }
+  input, select { padding: .45rem; font-size: 1rem; margin-top: .2rem; border: 1px solid #bbb; border-radius: 4px; }
+  button { grid-column: 1 / -1; padding: .7rem; font-size: 1rem; background: #1f3864; color: #fff; border: 0; border-radius: 4px; cursor: pointer; }
+  #out { border: 1px solid #ddd; border-radius: 6px; padding: 1rem; display: none; }
+  .low { color: #2e7d32; } .medium { color: #b26a00; } .high { color: #c62828; }
+  .note { font-size: .8rem; color: #777; margin-top: 1.5rem; }
+</style>
+</head>
+<body>
+<h1>Employee Attrition Predictor</h1>
+<p class="sub">Calls the <code>/predict</code> endpoint of this API. {{ card.model }}.</p>
+<form id="f">
+  {% for f in fields %}
+    {% if f in categories %}
+      <label>{{ f.replace('_', ' ') }}
+        <select name="{{ f }}">{% for c in categories[f] %}<option>{{ c }}</option>{% endfor %}</select></label>
+    {% else %}
+      <label>{{ f.replace('_', ' ') }} (seen {{ '%g' % ranges[f][0] }} to {{ '%g' % ranges[f][1] }})
+        <input name="{{ f }}" type="number" step="any" required></label>
+    {% endif %}
+  {% endfor %}
+  <button type="submit">Predict</button>
+</form>
+<div id="out"></div>
+<p class="note">{{ card.intended_use }} Trained on {{ card.data.rows }} synthetic rows;
+  test ROC-AUC {{ card.test_metrics.roc_auc }}.</p>
+<script>
+document.getElementById("f").addEventListener("submit", async (e) => {
+  e.preventDefault();
+  const body = {};
+  new FormData(e.target).forEach((v, k) => { body[k] = (e.target[k].type === "number") ? Number(v) : v; });
+  const r = await fetch("/predict", {method: "POST", headers: {"Content-Type": "application/json"}, body: JSON.stringify(body)});
+  const j = await r.json();
+  const out = document.getElementById("out");
+  out.style.display = "block";
+  if (!r.ok) { out.innerHTML = "<b>Problem with the input:</b><pre>" + JSON.stringify(j.details || j, null, 2) + "</pre>"; return; }
+  out.innerHTML = "<h3>Risk of leaving: <span class='" + j.risk_band + "'>" + j.risk_band + "</span> (" +
+    (j.probability_attrition * 100).toFixed(1) + "%)</h3><p>Main factors:</p><ul>" +
+    j.top_factors.map(x => "<li>" + x.feature.replace(/_/g, " ") + ": " + x.effect + "</li>").join("") + "</ul>" +
+    (j.warnings.length ? "<p><b>Warnings:</b> " + j.warnings.join(" ") + "</p>" : "");
+});
+</script>
+</body>
+</html>

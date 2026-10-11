@@ -1,0 +1,651 @@
+Age,Experience_Years,Monthly_Income,Satisfaction_Score,Weekly_Work_Hours,Education,Department,City,Job_Level,Attrition
+24,0,18000.0,2.5,42.2,PhD,Engineering,Bengaluru,Junior,No
+51,24,24826.0,2.6,37.8,Bachelor,HR,Patna,Senior,No
+47,25,23727.0,4.2,53.3,Bachelor,Sales,Delhi,Senior,No
+38,10,18212.0,2.1,44.5,PhD,Finance,Delhi,Mid,Yes
+38,12,20158.0,1.0,40.5,Master,Operations,Bengaluru,Mid,Yes
+55,30,26262.0,4.4,50.4,Bachelor,Finance,Bengaluru,Senior,No
+24,0,18000.0,5.0,26.8,Bachelor,Operations,Bengaluru,Junior,No
+48,22,23870.0,2.6,27.9,Bachelor,Operations,Kolkata,Senior,No
+29,9,18000.0,1.3,47.6,Master,Engineering,Delhi,Mid,Yes
+24,1,18000.0,2.7,42.4,Bachelor,Engineering,Pune,Junior,No
+42,21,29946.0,2.7,43.8,High School,Engineering,Bengaluru,Senior,No
+60,32,35975.0,2.8,32.7,High School,HR,Patna,Senior,Yes
+50,30,32617.0,2.0,41.8,Master,Sales,Bengaluru,Senior,Yes
+51,29,30987.0,3.5,56.0,Master,Finance,Kolkata,Senior,Yes
+49,23,26459.0,3.5,47.8,Bachelor,Engineering,Patna,Senior,Yes
+52,25,23970.0,1.7,43.2,Bachelor,Finance,Pune,Senior,Yes
+41,16,24921.0,3.6,38.9,Master,Operations,Pune,Senior,No
+26,0,18000.0,4.8,39.2,Bachelor,Engineering,Patna,Junior,No
+54,24,24716.0,3.2,27.1,Bachelor,Engineering,Patna,Senior,No
+39,18,18000.0,2.7,43.8,Bachelor,Sales,Bengaluru,Senior,Yes
+41,11,18000.0,2.9,47.9,Bachelor,Sales,Bengaluru,Mid,Yes
+35,9,18000.0,3.6,31.0,Master,Sales,Patna,Mid,Yes
+28,2,18000.0,1.4,37.4,Master,HR,Bengaluru,Junior,Yes
+58,37,32476.0,3.1,33.9,High School,Engineering,Bengaluru,Senior,No
+52,26,37327.0,2.6,35.2,Master,Engineering,Bengaluru,Senior,Yes
+46,19,22081.0,,42.4,High School,Operations,Kolkata,Senior,No
+37,11,18665.0,2.8,27.4,Bachelor,Finance,Delhi,Mid,Yes
+53,33,29855.0,4.5,46.3,High School,Sales,Bengaluru,Senior,No
+42,17,20329.0,2.0,47.3,Master,Finance,Bengaluru,Senior,Yes
+38,8,18000.0,3.5,40.2,Bachelor,Sales,Pune,Mid,No
+39,12,18000.0,3.3,25.0,PhD,Sales,Patna,Mid,No
+30,9,18000.0,2.2,35.0,Bachelor,Engineering,Patna,Mid,Yes
+24,0,18000.0,3.2,50.6,,HR,Kolkata,Junior,Yes
+43,13,19158.0,4.1,25.0,Bachelor,HR,Patna,Mid,No
+56,35,32991.0,2.7,39.6,Bachelor,Operations,Patna,Senior,No
+23,0,18000.0,1.5,33.7,Bachelor,Engineering,Patna,Junior,Yes
+55,31,34277.0,3.0,47.6,Master,Engineering,Pune,Senior,Yes
+54,28,29695.0,2.2,37.3,High School,HR,Delhi,Senior,No
+32,8,18000.0,2.7,44.8,Bachelor,Engineering,Delhi,Mid,Yes
+46,18,18000.0,2.9,46.0,Master,Engineering,Bengaluru,Senior,Yes
+27,0,18000.0,,54.9,Bachelor,Operations,Delhi,Junior,Yes
+51,23,27702.0,1.5,40.6,High School,Finance,Delhi,Senior,Yes
+49,19,25408.0,3.4,44.6,Bachelor,HR,Kolkata,Senior,Yes
+35,5,18000.0,2.5,31.6,Bachelor,Engineering,Delhi,Mid,No
+23,3,18000.0,1.0,50.3,Master,Finance,Patna,Junior,Yes
+59,37,37651.0,3.7,36.7,Master,HR,Delhi,Senior,Yes
+38,11,18000.0,3.2,38.1,High School,Operations,Bengaluru,Mid,Yes
+56,30,37416.0,2.4,41.8,Master,Engineering,Delhi,Senior,Yes
+48,28,36276.0,1.8,31.1,High School,HR,Kolkata,Senior,Yes
+52,31,28720.0,3.8,43.6,Bachelor,Engineering,Pune,Senior,No
+51,26,31380.0,3.3,48.8,Bachelor,Operations,Bengaluru,Senior,No
+28,2,18000.0,5.0,44.1,Bachelor,Sales,Delhi,Junior,Yes
+35,14,21130.0,3.4,30.9,Bachelor,Finance,Kolkata,Mid,No
+39,18,22518.0,3.3,41.1,Bachelor,Engineering,Pune,Senior,No
+40,19,23285.0,2.8,47.2,Master,Operations,Patna,Senior,Yes
+22,0,18000.0,3.7,28.9,Bachelor,Engineering,Bengaluru,Junior,Yes
+42,22,21837.0,3.6,34.5,Master,Operations,Kolkata,Senior,Yes
+27,1,18000.0,4.1,48.1,Master,HR,Kolkata,Junior,No
+50,25,28132.0,2.5,43.9,Master,Finance,Pune,Senior,Yes
+48,23,27511.0,,44.9,Master,Operations,Patna,Senior,Yes
+57,30,35627.0,2.6,55.0,Bachelor,Sales,Kolkata,Senior,Yes
+50,25,28522.0,3.7,45.3,Bachelor,Engineering,Patna,Senior,Yes
+35,7,18000.0,4.3,46.6,Master,HR,Kolkata,Mid,No
+59,31,33892.0,2.6,61.0,Master,HR,Delhi,Senior,Yes
+37,7,18000.0,2.6,40.5,Bachelor,Engineering,Patna,Mid,No
+34,6,18000.0,3.3,36.4,Bachelor,HR,Kolkata,Mid,No
+57,32,37092.0,2.8,45.0,Master,Sales,Pune,Senior,No
+35,10,18000.0,3.9,45.1,Master,Sales,Bengaluru,Mid,No
+24,2,18000.0,1.0,38.3,Bachelor,Engineering,Patna,Junior,No
+39,13,20528.0,2.3,34.8,Master,Sales,Pune,Mid,Yes
+52,31,34961.0,2.3,58.2,High School,Sales,Patna,Senior,Yes
+28,0,18000.0,1.0,44.3,Bachelor,Engineering,Delhi,Junior,Yes
+39,10,18000.0,2.1,36.9,High School,HR,Bengaluru,Mid,Yes
+26,5,18000.0,2.2,48.4,Bachelor,Sales,Pune,Mid,Yes
+48,20,33952.0,2.8,41.2,Master,Engineering,Kolkata,Senior,No
+40,19,19265.0,4.0,40.2,Master,HR,Kolkata,Senior,No
+34,7,18000.0,2.8,45.9,Bachelor,Engineering,Pune,Mid,Yes
+30,10,18000.0,2.1,33.0,High School,Finance,Bengaluru,Mid,Yes
+43,18,20594.0,2.9,44.5,Master,HR,Kolkata,Senior,Yes
+47,20,21285.0,3.9,55.4,PhD,Finance,Patna,Senior,No
+58,30,36039.0,2.1,45.3,Bachelor,Finance,Delhi,Senior,No
+38,14,18418.0,2.2,39.4,High School,Finance,Pune,Mid,Yes
+27,0,18000.0,3.5,38.5,High School,HR,Delhi,Junior,Yes
+54,26,32775.0,2.8,39.1,,HR,Bengaluru,Senior,No
+46,24,29911.0,3.6,40.2,Bachelor,Operations,Bengaluru,Senior,Yes
+49,22,21080.0,3.0,39.4,Master,Engineering,Pune,Senior,Yes
+24,0,18000.0,3.6,48.4,Master,Finance,Patna,Junior,No
+33,10,18000.0,2.1,29.9,PhD,Sales,Bengaluru,Mid,Yes
+51,23,24003.0,3.0,48.0,Master,Engineering,Pune,Senior,No
+54,25,32276.0,2.8,39.3,Bachelor,Sales,Kolkata,Senior,No
+38,10,18000.0,1.9,44.6,Bachelor,Sales,Delhi,Mid,Yes
+53,25,28161.0,1.6,34.1,Master,Engineering,Bengaluru,Senior,Yes
+54,28,29334.0,3.6,51.3,PhD,Operations,Bengaluru,Senior,No
+36,14,18491.0,2.7,50.7,Bachelor,Engineering,Delhi,Mid,No
+56,28,31912.0,2.1,48.7,High School,Finance,Patna,Senior,Yes
+32,8,18000.0,2.9,31.4,High School,HR,Pune,Mid,Yes
+30,5,18000.0,4.0,47.8,Bachelor,Operations,Pune,Mid,No
+48,25,27813.0,1.0,44.8,Bachelor,Sales,Patna,Senior,Yes
+46,23,27477.0,1.7,30.8,Master,Engineering,Bengaluru,Senior,Yes
+26,5,18000.0,2.2,41.8,Master,Engineering,Kolkata,Mid,No
+54,24,25652.0,4.3,44.6,Bachelor,Operations,Bengaluru,Senior,Yes
+28,7,18000.0,3.3,45.9,High School,Operations,Delhi,Mid,Yes
+53,33,28443.0,3.7,43.2,Master,Sales,Kolkata,Senior,Yes
+21,0,18000.0,2.0,44.0,High School,Sales,Patna,Junior,Yes
+52,26,29596.0,2.0,52.3,High School,Finance,Patna,Senior,Yes
+52,28,37915.0,3.4,50.6,High School,Finance,Pune,Senior,Yes
+52,24,26468.0,3.1,25.0,Master,HR,Kolkata,Senior,No
+47,23,30397.0,3.5,39.8,Bachelor,Sales,Bengaluru,Senior,No
+39,18,19247.0,2.8,40.8,Master,Sales,Kolkata,Senior,Yes
+49,21,22201.0,3.3,29.7,Bachelor,HR,Bengaluru,Senior,No
+32,11,18000.0,3.1,42.7,Master,HR,Bengaluru,Mid,No
+52,26,24773.0,3.7,50.7,Bachelor,Engineering,Patna,Senior,Yes
+43,13,18478.0,3.7,34.4,Master,Engineering,Pune,Mid,No
+39,9,18000.0,1.5,44.4,Bachelor,HR,Bengaluru,Mid,No
+41,18,18049.0,1.0,35.6,Bachelor,Operations,Kolkata,Senior,Yes
+43,15,18000.0,3.9,37.3,Bachelor,Engineering,Patna,Senior,No
+22,0,18000.0,4.1,52.3,Master,HR,Bengaluru,Junior,No
+26,1,18000.0,2.1,38.2,High School,Engineering,Delhi,Junior,No
+30,9,18000.0,1.3,45.2,Bachelor,Sales,Patna,Mid,Yes
+25,1,18000.0,3.1,28.9,High School,Operations,Bengaluru,Junior,No
+38,11,18000.0,3.8,55.0,High School,Sales,Pune,Mid,Yes
+47,17,23802.0,4.6,46.2,Bachelor,Sales,Patna,Senior,No
+47,27,31755.0,3.5,40.7,Master,Finance,Kolkata,Senior,No
+39,12,18000.0,2.7,46.0,Bachelor,Engineering,Patna,Mid,Yes
+55,26,25384.0,2.2,32.1,Bachelor,Engineering,Bengaluru,Senior,Yes
+43,13,,3.0,50.3,Master,Finance,Patna,Mid,Yes
+24,0,18000.0,2.7,39.7,Bachelor,HR,Pune,Junior,No
+51,30,38435.0,2.1,40.6,High School,Engineering,Delhi,Senior,Yes
+43,21,33120.0,4.8,38.6,High School,HR,Delhi,Senior,No
+46,17,22557.0,4.6,37.9,High School,HR,Bengaluru,Senior,No
+43,14,18989.0,4.0,46.9,Master,Sales,Bengaluru,Mid,No
+43,16,20352.0,2.2,43.8,Master,HR,Patna,Senior,No
+24,3,18000.0,3.8,46.6,PhD,Operations,Patna,Junior,No
+43,22,24699.0,3.6,41.9,Bachelor,Sales,Patna,Senior,No
+52,27,27490.0,3.4,45.6,Bachelor,Finance,Pune,Senior,No
+33,7,18000.0,4.1,39.1,Master,HR,Delhi,Mid,Yes
+45,25,34010.0,3.6,57.6,Bachelor,Finance,Patna,Senior,No
+22,0,18000.0,3.7,31.0,Bachelor,Engineering,Kolkata,Junior,No
+34,9,18000.0,3.6,50.8,Bachelor,Sales,Delhi,Mid,Yes
+38,18,20493.0,3.3,51.6,Master,Operations,Pune,Senior,No
+60,39,41324.0,1.4,36.0,Bachelor,Finance,Kolkata,Senior,Yes
+29,5,18000.0,3.1,57.6,Bachelor,Sales,Bengaluru,Mid,Yes
+32,5,18000.0,2.5,49.0,Bachelor,Finance,Bengaluru,Mid,No
+37,8,18000.0,1.8,48.8,Bachelor,Engineering,Pune,Mid,Yes
+60,36,36205.0,4.5,42.2,High School,HR,Delhi,Senior,No
+55,32,34592.0,4.6,40.5,Bachelor,Sales,Bengaluru,Senior,No
+22,0,18000.0,4.2,40.5,Master,HR,Pune,Junior,No
+30,5,18000.0,3.2,44.7,High School,Finance,Delhi,Mid,Yes
+53,30,32971.0,4.2,51.8,Bachelor,Operations,Delhi,Senior,Yes
+23,0,18000.0,3.0,43.3,High School,Operations,Bengaluru,Junior,No
+55,35,32533.0,3.2,35.6,Master,Sales,Delhi,Senior,Yes
+32,9,18000.0,2.0,47.8,Master,Finance,Patna,Mid,Yes
+57,32,35339.0,3.4,48.4,Bachelor,HR,Bengaluru,Senior,Yes
+32,2,18000.0,3.1,46.6,Bachelor,Operations,Patna,Junior,Yes
+38,10,18000.0,1.8,47.2,PhD,Operations,Pune,Mid,No
+47,19,21491.0,3.0,40.1,High School,Operations,Pune,Senior,No
+26,1,18000.0,2.9,35.5,High School,Operations,Delhi,Junior,No
+43,22,26622.0,4.6,35.9,High School,HR,Patna,Senior,Yes
+41,17,20122.0,3.8,30.6,Bachelor,Operations,Delhi,Senior,No
+52,22,28633.0,3.0,43.7,High School,Finance,Bengaluru,Senior,No
+60,40,44922.0,3.2,41.4,Master,Sales,Kolkata,Senior,Yes
+47,18,20191.0,3.0,38.9,High School,HR,Pune,Senior,Yes
+37,10,18000.0,2.8,25.0,Bachelor,Engineering,Bengaluru,Mid,Yes
+37,14,22367.0,2.0,33.3,Bachelor,Sales,Bengaluru,Mid,Yes
+37,9,18000.0,2.9,49.8,,Operations,Delhi,Mid,Yes
+53,24,26852.0,2.3,37.3,High School,Operations,Kolkata,Senior,Yes
+33,13,18753.0,1.9,44.5,Master,Sales,Pune,Mid,Yes
+27,6,18000.0,,32.3,Bachelor,HR,Delhi,Mid,No
+34,7,18000.0,3.4,52.1,Bachelor,Finance,Pune,Mid,Yes
+21,0,18000.0,1.4,41.0,PhD,Engineering,Pune,Junior,Yes
+25,5,18000.0,2.9,44.0,Master,Engineering,Pune,Mid,No
+24,0,18000.0,3.9,58.3,Master,Sales,Kolkata,Junior,Yes
+51,30,29673.0,4.0,52.6,Master,Operations,Pune,Senior,Yes
+49,22,21735.0,3.9,39.9,Bachelor,Sales,Delhi,Senior,No
+48,22,31005.0,3.0,37.8,Master,Finance,Bengaluru,Senior,Yes
+39,19,23679.0,2.2,39.7,Master,Finance,Pune,Senior,Yes
+49,22,21442.0,2.0,45.6,High School,HR,Bengaluru,Senior,Yes
+27,0,18000.0,3.3,41.3,High School,Sales,Bengaluru,Junior,No
+57,28,34552.0,3.3,39.2,High School,Engineering,Bengaluru,Senior,No
+41,21,26056.0,4.2,52.3,Master,Finance,Pune,Senior,Yes
+58,36,34582.0,4.0,41.2,Master,Finance,Delhi,Senior,No
+27,5,18000.0,2.9,58.1,Master,HR,Patna,Mid,No
+40,16,18954.0,1.9,42.6,High School,HR,Kolkata,Senior,No
+48,27,29705.0,2.7,54.5,Master,Operations,Delhi,Senior,Yes
+40,11,18000.0,3.2,44.5,Master,Operations,Pune,Mid,No
+38,10,18000.0,2.8,48.7,High School,Engineering,Delhi,Mid,No
+27,0,18000.0,2.5,36.9,Master,Operations,Delhi,Junior,Yes
+36,14,18000.0,3.2,36.0,High School,Finance,Patna,Mid,Yes
+30,10,18000.0,2.5,45.2,Bachelor,Operations,Pune,Mid,Yes
+33,3,18000.0,2.4,48.9,Master,HR,Delhi,Junior,No
+48,25,26335.0,3.3,42.3,Master,HR,Patna,Senior,Yes
+46,19,19282.0,2.6,33.0,Bachelor,Sales,Kolkata,Senior,Yes
+45,15,23667.0,3.2,32.5,High School,Operations,Bengaluru,Senior,No
+35,15,20589.0,3.2,32.0,Master,Sales,Patna,Senior,Yes
+59,39,46437.0,2.0,29.6,Bachelor,Sales,Delhi,Senior,Yes
+24,4,18000.0,2.6,42.8,High School,Sales,Delhi,Junior,Yes
+34,13,18000.0,4.3,49.9,Master,Sales,Patna,Mid,No
+25,5,18000.0,2.0,41.9,High School,Sales,Patna,Mid,Yes
+34,5,18000.0,1.1,26.2,Bachelor,Engineering,Bengaluru,Mid,No
+59,33,35597.0,1.3,40.7,High School,Operations,Delhi,Senior,Yes
+35,5,18000.0,3.0,40.9,Bachelor,HR,Kolkata,Mid,No
+57,29,40612.0,3.0,56.7,Master,Finance,Patna,Senior,Yes
+40,10,18000.0,2.9,31.8,Bachelor,Engineering,Delhi,Mid,No
+48,26,31482.0,4.1,39.3,Master,Operations,Pune,Senior,No
+39,16,19266.0,1.0,53.9,Master,Engineering,Pune,Senior,Yes
+31,2,18000.0,3.4,45.1,Master,HR,Patna,Junior,Yes
+51,29,37595.0,4.4,45.9,Master,HR,Pune,Senior,No
+59,39,41358.0,2.0,42.8,High School,HR,Bengaluru,Senior,Yes
+31,4,18000.0,2.7,44.3,Master,Operations,Kolkata,Junior,Yes
+52,24,27069.0,2.3,47.4,Bachelor,Finance,Patna,Senior,Yes
+31,1,18000.0,2.2,36.3,PhD,Sales,Bengaluru,Junior,Yes
+49,19,24027.0,2.7,48.1,,Finance,Delhi,Senior,No
+52,31,36589.0,4.3,32.4,PhD,Engineering,Pune,Senior,No
+38,10,18000.0,4.7,44.3,PhD,Sales,Kolkata,Mid,Yes
+50,21,,2.7,43.3,High School,Sales,Kolkata,Senior,Yes
+31,4,18000.0,4.7,37.7,High School,Finance,Kolkata,Junior,No
+24,0,18000.0,3.0,41.8,Master,Engineering,Kolkata,Junior,No
+24,0,18000.0,4.6,37.6,Bachelor,Sales,Delhi,Junior,No
+38,14,18000.0,2.9,34.5,Master,HR,Patna,Mid,Yes
+57,37,39549.0,3.1,39.5,High School,Finance,Bengaluru,Senior,Yes
+26,1,18000.0,3.3,34.3,Master,HR,Delhi,Junior,Yes
+39,17,20260.0,5.0,44.3,High School,Finance,Bengaluru,Senior,No
+49,28,33236.0,3.8,33.9,Bachelor,Operations,Delhi,Senior,Yes
+29,8,18000.0,2.4,47.0,Bachelor,Operations,Kolkata,Mid,No
+49,22,24944.0,3.9,33.7,Master,Operations,Delhi,Senior,No
+33,8,18000.0,2.7,38.0,Master,Engineering,Patna,Mid,Yes
+53,28,35842.0,2.6,37.6,Bachelor,HR,Bengaluru,Senior,Yes
+44,16,20949.0,3.8,51.3,Bachelor,HR,Pune,Senior,Yes
+42,16,18000.0,3.0,44.3,High School,Sales,Patna,Senior,No
+28,2,18000.0,3.3,40.5,Master,Engineering,Delhi,Junior,Yes
+39,19,23711.0,3.0,45.5,Bachelor,Engineering,Delhi,Senior,No
+55,26,34862.0,3.3,27.2,Bachelor,Operations,Kolkata,Senior,No
+21,0,18000.0,3.4,41.7,Master,Operations,Patna,Junior,Yes
+51,30,35765.0,1.3,56.0,Bachelor,Sales,Pune,Senior,Yes
+40,12,18000.0,3.6,42.9,Master,Operations,Kolkata,Mid,No
+49,21,22739.0,2.1,42.5,High School,Operations,Delhi,Senior,No
+47,27,26740.0,1.7,45.8,Bachelor,Finance,Kolkata,Senior,Yes
+38,16,20817.0,2.9,48.3,Master,Finance,Pune,Senior,Yes
+33,13,18000.0,3.1,28.0,Bachelor,Finance,Patna,Mid,No
+46,24,28888.0,2.4,30.2,Bachelor,Engineering,Kolkata,Senior,Yes
+26,5,18000.0,3.7,43.5,High School,Operations,Delhi,Mid,Yes
+44,17,22794.0,1.8,37.0,Master,Sales,Delhi,Senior,Yes
+24,0,18000.0,2.6,51.2,High School,HR,Pune,Junior,Yes
+46,16,21095.0,2.5,39.8,Bachelor,Operations,Patna,Senior,Yes
+46,18,23066.0,3.0,28.5,Bachelor,Operations,Delhi,Senior,No
+24,0,18000.0,3.3,33.1,Master,HR,Pune,Junior,No
+51,26,27576.0,2.1,25.0,Master,Finance,Kolkata,Senior,Yes
+37,17,21368.0,3.7,40.4,PhD,,Patna,Senior,Yes
+52,32,28778.0,3.1,40.7,Bachelor,Engineering,Bengaluru,Senior,Yes
+22,0,18000.0,1.3,39.0,High School,Engineering,Pune,Junior,No
+28,8,18000.0,1.2,49.6,High School,Finance,Pune,Mid,Yes
+40,20,28315.0,,50.4,Master,HR,Pune,Senior,No
+28,6,18000.0,2.8,40.8,Bachelor,HR,Pune,Mid,No
+34,5,18000.0,2.9,27.1,Master,Operations,Pune,Mid,No
+47,22,30505.0,3.0,46.3,Bachelor,HR,Delhi,Senior,Yes
+26,0,18000.0,3.2,45.9,High School,HR,Patna,Junior,Yes
+48,24,30380.0,3.9,44.2,Master,Engineering,Delhi,Senior,No
+25,4,18000.0,2.0,48.9,High School,Engineering,Kolkata,Junior,Yes
+28,4,18000.0,1.9,33.8,Master,Finance,Pune,Junior,Yes
+44,23,23412.0,2.0,56.1,Master,HR,Delhi,Senior,Yes
+52,24,27945.0,3.3,35.3,Master,Engineering,Bengaluru,Senior,No
+27,5,18000.0,4.1,47.2,Master,Sales,Delhi,Mid,Yes
+32,8,18000.0,2.6,30.2,High School,Sales,Delhi,Mid,No
+58,28,40523.0,1.0,35.5,Bachelor,Sales,Bengaluru,Senior,Yes
+60,34,39632.0,1.5,52.6,PhD,Sales,Delhi,Senior,Yes
+44,19,23940.0,2.3,40.2,High School,,Kolkata,Senior,Yes
+38,13,18311.0,2.5,47.9,High School,Engineering,Kolkata,Mid,Yes
+34,6,18000.0,2.6,43.7,Master,Sales,Bengaluru,Mid,Yes
+45,23,28145.0,3.0,41.3,High School,HR,Pune,Senior,Yes
+44,17,20062.0,2.7,51.5,Bachelor,HR,Patna,Senior,Yes
+32,3,18000.0,3.9,40.3,High School,Finance,Delhi,Junior,No
+21,0,,2.4,29.5,Bachelor,Finance,Kolkata,Junior,No
+27,3,18000.0,2.2,36.4,Bachelor,Sales,Pune,Junior,No
+59,38,41792.0,3.4,45.9,Master,HR,Patna,Senior,No
+37,15,19617.0,1.6,44.8,Bachelor,Engineering,Pune,Senior,Yes
+40,10,,3.4,31.0,Bachelor,Operations,Pune,Mid,No
+39,14,20980.0,3.1,36.9,High School,Engineering,Kolkata,Mid,No
+52,29,35664.0,2.9,37.9,Bachelor,Engineering,Patna,Senior,No
+23,0,18000.0,4.4,39.4,High School,Operations,Pune,Junior,No
+24,0,18000.0,2.4,32.4,Bachelor,Engineering,Kolkata,Junior,No
+32,7,18000.0,4.9,37.6,High School,HR,Bengaluru,Mid,No
+40,13,18000.0,2.8,36.9,High School,Engineering,Pune,Mid,No
+47,25,29762.0,1.9,47.4,Bachelor,Operations,Bengaluru,Senior,Yes
+40,13,18000.0,3.1,47.7,Master,Operations,Delhi,Mid,Yes
+38,14,18000.0,2.0,41.0,High School,HR,Bengaluru,Mid,No
+58,28,31242.0,2.3,39.3,High School,Finance,Patna,Senior,No
+27,6,18000.0,3.4,43.0,Bachelor,HR,Kolkata,Mid,No
+43,22,26478.0,3.5,36.3,Master,Engineering,Patna,Senior,Yes
+42,17,30744.0,2.4,34.0,High School,Engineering,Pune,Senior,Yes
+39,14,18000.0,3.9,35.4,Bachelor,Sales,Delhi,Mid,Yes
+53,26,27230.0,4.0,37.6,High School,Sales,Kolkata,Senior,No
+31,7,18000.0,4.3,33.9,Bachelor,Sales,Kolkata,Mid,No
+59,29,36310.0,3.5,43.1,High School,Sales,Pune,Senior,Yes
+34,9,18000.0,4.2,47.1,Bachelor,HR,Patna,Mid,No
+42,21,22529.0,1.3,30.9,Bachelor,Engineering,Delhi,Senior,Yes
+41,20,19550.0,2.7,42.2,PhD,Operations,Pune,Senior,Yes
+54,24,25045.0,2.2,40.5,High School,Sales,Kolkata,Senior,Yes
+38,17,18294.0,3.1,44.4,High School,Operations,Kolkata,Senior,Yes
+32,2,18000.0,2.5,41.9,PhD,HR,Kolkata,Junior,No
+21,0,18000.0,2.9,31.8,Master,Finance,Delhi,Junior,Yes
+35,14,18000.0,4.7,33.2,Bachelor,HR,Kolkata,Mid,No
+54,31,31889.0,2.8,42.2,Bachelor,Sales,Kolkata,Senior,Yes
+21,0,18000.0,3.4,49.2,Master,HR,Delhi,Junior,No
+56,32,40586.0,2.8,26.5,Bachelor,Operations,Patna,Senior,Yes
+42,14,19700.0,3.1,44.4,High School,HR,Delhi,Mid,No
+26,0,18000.0,3.0,50.3,Bachelor,HR,Patna,Junior,No
+33,9,18000.0,3.4,40.9,Bachelor,HR,Patna,Mid,Yes
+43,17,20578.0,4.0,45.9,Bachelor,Sales,Kolkata,Senior,No
+33,3,18000.0,,37.1,Bachelor,Sales,Kolkata,Junior,No
+25,1,18000.0,3.3,41.2,Bachelor,Finance,Patna,Junior,No
+47,26,27193.0,3.5,30.7,Master,Operations,Bengaluru,Senior,No
+47,23,27725.0,2.0,25.6,Bachelor,Engineering,Kolkata,Senior,Yes
+25,0,18000.0,2.9,48.6,Master,Finance,Bengaluru,Junior,Yes
+32,10,18000.0,3.8,35.1,High School,Operations,Bengaluru,Mid,Yes
+30,0,18000.0,3.8,38.8,Master,Engineering,Bengaluru,Junior,No
+47,21,25773.0,3.2,32.3,Master,Operations,Bengaluru,Senior,Yes
+50,24,26893.0,3.8,32.1,Bachelor,HR,Patna,Senior,Yes
+50,27,26480.0,3.4,40.8,Bachelor,Finance,Kolkata,Senior,No
+58,28,33440.0,4.1,36.9,Bachelor,HR,Pune,Senior,Yes
+51,31,34039.0,3.3,44.6,PhD,HR,Delhi,Senior,Yes
+33,10,18000.0,2.7,45.2,Master,Sales,Patna,Mid,Yes
+25,1,18000.0,3.3,44.2,Bachelor,Sales,Delhi,Junior,No
+45,20,22584.0,1.0,43.7,Master,Operations,Bengaluru,Senior,Yes
+57,32,33467.0,3.3,53.0,High School,Finance,Bengaluru,Senior,No
+60,39,48175.0,1.0,34.5,Master,Finance,Kolkata,Senior,Yes
+30,8,18000.0,1.4,41.6,Master,Operations,Kolkata,Mid,Yes
+30,9,18000.0,3.4,49.9,High School,Operations,Kolkata,Mid,Yes
+22,0,18000.0,3.4,50.9,Master,HR,Kolkata,Junior,Yes
+26,3,18000.0,2.0,32.0,Master,Sales,Kolkata,Junior,No
+43,17,21968.0,2.4,39.8,Bachelor,Operations,Kolkata,Senior,Yes
+42,16,18339.0,4.2,51.5,Bachelor,Sales,Delhi,Senior,Yes
+35,8,18000.0,2.6,45.6,PhD,Sales,Patna,Mid,No
+33,7,18000.0,5.0,43.4,Master,Finance,Kolkata,Mid,Yes
+54,27,31220.0,3.0,40.5,Bachelor,HR,Kolkata,Senior,Yes
+39,13,19143.0,3.4,39.3,Master,Sales,Patna,Mid,Yes
+53,26,,4.5,44.0,Bachelor,Finance,Bengaluru,Senior,No
+59,33,38194.0,3.1,40.2,High School,Finance,Pune,Senior,Yes
+33,10,18000.0,2.1,41.7,Bachelor,Sales,Bengaluru,Mid,No
+29,7,18000.0,2.9,42.6,High School,HR,Delhi,Mid,No
+59,31,37197.0,3.0,37.3,Master,HR,Patna,Senior,Yes
+46,23,32664.0,1.8,45.7,Bachelor,Operations,Bengaluru,Senior,No
+32,6,18000.0,2.8,62.4,Bachelor,Finance,Delhi,Mid,Yes
+45,23,29985.0,2.3,29.6,High School,HR,Pune,Senior,No
+41,17,18000.0,3.8,44.3,Bachelor,Operations,Kolkata,Senior,Yes
+57,32,36089.0,3.0,36.7,Bachelor,HR,Delhi,Senior,No
+31,5,18000.0,2.7,46.0,High School,Finance,Delhi,Mid,No
+60,35,35127.0,2.9,42.3,Bachelor,HR,Kolkata,Senior,Yes
+58,35,37619.0,3.2,47.3,Bachelor,Sales,Delhi,Senior,No
+28,0,18000.0,3.6,50.2,Bachelor,HR,Pune,Junior,Yes
+27,2,18000.0,2.1,43.3,High School,Finance,Patna,Junior,No
+42,14,18000.0,2.1,49.9,Bachelor,Operations,Patna,Mid,Yes
+22,0,18000.0,4.0,25.6,Bachelor,Engineering,Bengaluru,Junior,No
+32,6,18000.0,2.6,53.1,Bachelor,Engineering,Delhi,Mid,Yes
+38,9,18000.0,1.7,44.6,Bachelor,HR,Bengaluru,Mid,No
+59,38,32655.0,3.4,49.5,Bachelor,Finance,Pune,Senior,Yes
+60,30,36264.0,3.4,33.5,Bachelor,HR,Pune,Senior,No
+27,0,18000.0,1.6,36.2,Bachelor,HR,Bengaluru,Junior,No
+56,31,40587.0,3.2,43.0,Bachelor,Operations,Pune,Senior,Yes
+24,0,18000.0,3.7,41.9,High School,HR,Kolkata,Junior,No
+50,25,28235.0,3.3,44.0,Bachelor,Finance,Delhi,Senior,No
+54,32,30315.0,3.6,49.6,Bachelor,Operations,Kolkata,Senior,Yes
+56,28,30086.0,1.7,29.6,High School,Operations,Kolkata,Senior,Yes
+29,7,18000.0,3.3,48.8,High School,Operations,Pune,Mid,Yes
+56,33,38592.0,2.7,42.1,Master,Operations,Patna,Senior,Yes
+25,0,18000.0,2.6,40.6,Bachelor,Engineering,Pune,Junior,Yes
+41,12,20770.0,3.8,31.7,Bachelor,HR,Delhi,Mid,No
+39,15,23426.0,4.3,45.5,Bachelor,Engineering,Kolkata,Senior,No
+33,8,18000.0,4.6,25.1,Bachelor,HR,Patna,Mid,No
+21,1,18000.0,4.2,46.5,Bachelor,Engineering,Pune,Junior,No
+51,30,36324.0,2.9,31.6,Master,HR,Bengaluru,Senior,Yes
+34,14,19279.0,3.3,42.4,Bachelor,Sales,Pune,Mid,Yes
+47,27,40556.0,3.7,41.2,Master,Engineering,Delhi,Senior,No
+37,8,18000.0,3.1,50.2,Bachelor,Engineering,Pune,Mid,Yes
+35,6,18000.0,3.1,40.7,Bachelor,HR,Delhi,Mid,Yes
+56,27,32916.0,3.7,37.1,High School,Engineering,Kolkata,Senior,No
+24,4,18000.0,2.9,38.5,High School,Finance,Kolkata,Junior,No
+50,30,31991.0,2.3,50.9,Bachelor,Operations,Kolkata,Senior,Yes
+50,27,22343.0,2.6,45.8,Master,Operations,Bengaluru,Senior,Yes
+36,10,18000.0,3.6,39.3,Bachelor,Engineering,Pune,Mid,Yes
+31,8,18000.0,3.0,40.3,Bachelor,Operations,Patna,Mid,Yes
+21,0,18000.0,3.3,31.0,Master,Operations,Bengaluru,Junior,Yes
+58,37,48240.0,3.6,44.7,Bachelor,Sales,Patna,Senior,Yes
+58,30,34250.0,2.7,29.7,Master,Engineering,Delhi,Senior,No
+30,7,18000.0,3.7,47.3,Master,HR,Patna,Mid,No
+22,2,18000.0,3.3,42.9,Bachelor,Operations,Kolkata,Junior,No
+25,0,18000.0,1.9,58.7,Bachelor,Engineering,Pune,Junior,Yes
+23,0,18000.0,4.3,34.3,Bachelor,Engineering,Bengaluru,Junior,No
+54,34,42204.0,2.5,41.3,PhD,Sales,Bengaluru,Senior,Yes
+56,32,33979.0,1.5,54.6,Master,HR,Bengaluru,Senior,No
+27,0,18000.0,2.1,50.3,Bachelor,HR,Kolkata,Junior,Yes
+50,23,24373.0,2.1,37.1,Bachelor,HR,Patna,Senior,Yes
+28,0,18000.0,3.0,43.6,Master,Sales,Bengaluru,Junior,Yes
+35,11,18000.0,2.8,42.0,Bachelor,Engineering,Bengaluru,Mid,No
+44,20,32718.0,2.7,44.0,Master,Engineering,Kolkata,Senior,Yes
+49,22,25414.0,3.6,37.1,High School,Engineering,Patna,Senior,Yes
+55,34,40688.0,3.3,41.4,Master,Operations,Pune,Senior,Yes
+22,0,18000.0,3.3,30.8,Bachelor,Operations,Patna,Junior,No
+28,2,18000.0,3.4,42.9,Bachelor,HR,Patna,Junior,No
+32,5,18000.0,3.6,45.2,Bachelor,Engineering,Bengaluru,Mid,No
+33,12,18000.0,1.1,40.4,Master,HR,Delhi,Mid,Yes
+60,35,40958.0,2.7,30.7,High School,Finance,Patna,Senior,Yes
+52,28,23600.0,1.0,48.9,Bachelor,Sales,Pune,Senior,Yes
+33,8,18000.0,3.0,44.6,Master,HR,Kolkata,Mid,No
+59,29,32379.0,3.0,36.9,Master,HR,Delhi,Senior,Yes
+40,20,30359.0,3.9,40.0,Bachelor,Sales,Bengaluru,Senior,No
+41,11,18000.0,4.1,31.5,Bachelor,HR,Kolkata,Mid,No
+38,14,19186.0,3.2,34.8,Bachelor,HR,Pune,Mid,Yes
+26,0,18000.0,2.5,38.2,Master,HR,Bengaluru,Junior,No
+58,34,37816.0,3.4,50.6,Master,Operations,Delhi,Senior,No
+21,0,18000.0,2.5,37.5,Master,HR,Bengaluru,Junior,Yes
+27,0,18000.0,3.0,46.5,High School,Engineering,Delhi,Junior,Yes
+30,3,18000.0,3.9,38.2,High School,Engineering,Delhi,Junior,No
+32,11,19097.0,2.5,43.7,PhD,HR,Bengaluru,Mid,Yes
+26,0,18000.0,3.7,41.0,High School,Finance,Pune,Junior,Yes
+21,0,18000.0,3.6,48.1,High School,Engineering,Bengaluru,Junior,No
+48,24,32620.0,2.1,38.3,High School,Engineering,Pune,Senior,Yes
+59,29,36259.0,3.9,31.0,Master,Operations,Pune,Senior,No
+25,0,18000.0,3.6,32.3,High School,HR,Kolkata,Junior,No
+32,9,18079.0,3.1,38.3,High School,Sales,Kolkata,Mid,Yes
+41,21,24907.0,2.3,33.3,Master,Sales,Bengaluru,Senior,Yes
+58,31,30117.0,2.2,44.9,Master,Operations,Pune,Senior,No
+48,26,26239.0,2.5,38.7,Master,HR,Kolkata,Senior,No
+51,23,,,58.6,High School,Operations,Kolkata,Senior,No
+44,19,27587.0,2.1,29.8,Master,Sales,Pune,Senior,No
+37,12,18000.0,3.4,43.4,High School,HR,Patna,Mid,Yes
+28,7,18000.0,1.9,34.1,High School,Finance,Patna,Mid,No
+55,28,35153.0,2.8,38.5,PhD,Sales,Pune,Senior,Yes
+53,32,39266.0,3.1,43.0,Bachelor,Sales,Kolkata,Senior,Yes
+22,0,18000.0,5.0,25.7,Master,Engineering,Pune,Junior,No
+49,20,21426.0,1.8,43.7,High School,Operations,Delhi,Senior,Yes
+24,0,18000.0,4.3,55.3,High School,Engineering,Bengaluru,Junior,No
+50,20,20458.0,3.1,38.8,High School,Sales,Delhi,Senior,No
+54,24,31490.0,3.4,43.8,Master,Operations,Bengaluru,Senior,Yes
+26,0,18000.0,3.1,49.2,Master,Engineering,Bengaluru,Junior,Yes
+38,16,23801.0,3.4,40.9,Bachelor,Finance,Kolkata,Senior,Yes
+25,0,18000.0,2.9,37.9,PhD,HR,Bengaluru,Junior,No
+43,15,18000.0,4.3,26.1,Bachelor,Sales,Pune,Senior,Yes
+58,28,30347.0,2.6,46.5,Master,HR,Patna,Senior,Yes
+24,0,18000.0,4.0,41.2,High School,Operations,Patna,Junior,Yes
+36,15,24540.0,2.4,34.9,Master,HR,Kolkata,Senior,No
+59,34,41266.0,2.9,42.9,Bachelor,Finance,Patna,Senior,Yes
+33,9,18000.0,2.0,37.9,Bachelor,Finance,Kolkata,Mid,Yes
+26,0,18000.0,3.4,38.3,High School,Sales,Bengaluru,Junior,No
+40,16,19320.0,4.3,46.2,Master,Operations,Delhi,Senior,No
+41,18,18642.0,2.9,32.6,Bachelor,Sales,Patna,Senior,No
+47,27,24422.0,2.8,49.3,Master,Finance,Delhi,Senior,No
+33,4,18000.0,2.0,32.2,Bachelor,Sales,Kolkata,Junior,Yes
+59,31,35458.0,2.8,37.4,High School,Sales,Bengaluru,Senior,No
+41,21,25938.0,1.6,55.5,Bachelor,Operations,Patna,Senior,Yes
+32,8,18000.0,2.2,49.9,Bachelor,Operations,Pune,Mid,No
+59,34,29216.0,3.2,42.7,Bachelor,Engineering,Delhi,Senior,Yes
+57,32,38773.0,4.2,35.4,Master,HR,Patna,Senior,No
+40,10,18000.0,5.0,38.3,Master,Sales,Pune,Mid,No
+21,0,18000.0,2.5,42.5,High School,Operations,Delhi,Junior,Yes
+44,21,25048.0,4.3,42.3,Master,HR,Pune,Senior,Yes
+43,22,24538.0,3.2,41.4,Bachelor,Finance,Pune,Senior,Yes
+26,4,18000.0,2.9,41.8,Bachelor,Finance,Pune,Junior,No
+46,17,18000.0,3.4,40.5,Bachelor,Operations,Delhi,Senior,Yes
+54,24,27925.0,3.1,31.9,High School,Operations,Patna,Senior,Yes
+25,5,18000.0,3.1,38.4,Bachelor,Finance,Patna,Mid,No
+49,23,26589.0,2.6,48.4,PhD,Engineering,Delhi,Senior,Yes
+26,4,18000.0,1.7,32.4,Bachelor,Operations,Kolkata,Junior,Yes
+50,28,32961.0,1.6,40.7,Bachelor,Operations,Pune,Senior,Yes
+37,14,18000.0,3.6,36.3,Bachelor,Engineering,Delhi,Mid,No
+21,0,18000.0,2.8,42.8,Bachelor,Finance,Bengaluru,Junior,No
+59,34,33584.0,2.5,39.3,High School,Operations,Patna,Senior,Yes
+27,0,18000.0,3.0,52.3,Master,Sales,Kolkata,Junior,No
+44,18,18000.0,3.7,45.5,Bachelor,HR,Pune,Senior,No
+28,1,18000.0,3.2,32.8,Master,HR,Patna,Junior,No
+58,33,34023.0,2.4,46.7,Master,Finance,Kolkata,Senior,Yes
+50,30,28699.0,4.1,36.6,High School,Finance,Pune,Senior,No
+53,33,35519.0,4.4,38.0,,Finance,Delhi,Senior,No
+38,16,20517.0,3.4,44.2,Master,Operations,Pune,Senior,Yes
+39,17,21491.0,3.9,38.6,High School,Engineering,Delhi,Senior,No
+46,17,25603.0,4.1,48.2,High School,Finance,Bengaluru,Senior,Yes
+52,23,28455.0,4.0,36.6,Master,Engineering,Bengaluru,Senior,No
+54,25,29625.0,3.6,37.7,Master,Engineering,Bengaluru,Senior,No
+21,0,18000.0,3.5,37.4,Bachelor,Engineering,Patna,Junior,No
+47,21,23358.0,3.5,38.0,High School,Finance,Delhi,Senior,No
+25,0,18000.0,2.0,49.7,PhD,HR,Patna,Junior,No
+32,8,18000.0,3.6,46.4,Bachelor,Sales,Kolkata,Mid,No
+54,27,30743.0,1.8,54.0,High School,Engineering,Kolkata,Senior,Yes
+31,3,18000.0,2.3,57.9,High School,HR,Pune,Junior,Yes
+52,24,20969.0,4.2,34.8,Bachelor,Operations,Delhi,Senior,No
+39,13,18000.0,3.8,42.5,Master,Finance,Bengaluru,Mid,Yes
+30,10,18000.0,4.3,33.8,High School,HR,Kolkata,Mid,No
+34,7,18000.0,2.8,36.6,PhD,Operations,Pune,Mid,Yes
+42,18,24213.0,2.0,37.6,Bachelor,Finance,Pune,Senior,Yes
+51,23,24230.0,2.8,34.6,Bachelor,Finance,Bengaluru,Senior,No
+45,20,25482.0,3.1,34.6,Master,Sales,Kolkata,Senior,No
+58,29,37054.0,3.1,41.0,Bachelor,,Pune,Senior,Yes
+55,32,33480.0,4.0,33.5,Bachelor,HR,Patna,Senior,Yes
+51,21,25100.0,2.7,47.9,Bachelor,Finance,Delhi,Senior,Yes
+45,16,26055.0,3.3,35.6,Bachelor,Engineering,Delhi,Senior,No
+32,9,18000.0,2.1,61.7,Master,Engineering,Bengaluru,Mid,No
+37,12,18000.0,3.4,38.8,Master,Finance,Pune,Mid,No
+25,0,18000.0,3.0,42.5,Master,Operations,Bengaluru,Junior,Yes
+35,7,18000.0,2.3,32.9,High School,Engineering,Bengaluru,Mid,No
+58,31,35155.0,2.8,53.9,Bachelor,Finance,Delhi,Senior,No
+38,9,18000.0,2.8,49.8,Bachelor,Engineering,Pune,Mid,No
+25,1,18000.0,2.8,44.1,Bachelor,Operations,Patna,Junior,No
+47,22,30455.0,4.6,32.6,Bachelor,Sales,Delhi,Senior,No
+59,35,32515.0,2.9,43.5,Bachelor,Engineering,Patna,Senior,Yes
+55,25,26539.0,2.8,34.1,Bachelor,Finance,Pune,Senior,No
+31,8,18000.0,1.1,52.2,Bachelor,Finance,Bengaluru,Mid,Yes
+39,13,18000.0,2.2,47.7,Bachelor,Engineering,Pune,Mid,Yes
+42,21,24109.0,2.8,42.7,Master,Engineering,Bengaluru,Senior,Yes
+30,1,18000.0,2.4,25.0,Master,Operations,Kolkata,Junior,No
+31,7,18000.0,4.2,35.1,High School,Engineering,Bengaluru,Mid,No
+30,7,18000.0,2.9,46.8,High School,Operations,Delhi,Mid,No
+60,34,35969.0,4.2,50.5,Master,Finance,Pune,Senior,No
+50,25,23736.0,3.1,49.8,Bachelor,Operations,Pune,Senior,Yes
+54,25,27929.0,3.0,30.9,Master,Sales,Pune,Senior,Yes
+53,28,34786.0,2.9,44.1,Bachelor,Engineering,Kolkata,Senior,No
+59,34,39172.0,3.0,49.1,Master,Operations,Pune,Senior,Yes
+25,4,18000.0,4.5,30.4,Bachelor,Engineering,Pune,Junior,Yes
+56,36,39413.0,1.0,41.9,Master,HR,Bengaluru,Senior,Yes
+23,0,18000.0,1.2,43.9,Bachelor,HR,Delhi,Junior,No
+40,10,18000.0,2.5,39.9,Master,Operations,Delhi,Mid,Yes
+44,14,23845.0,3.0,29.0,High School,Sales,Delhi,Mid,No
+35,9,18000.0,3.6,39.7,High School,Operations,Patna,Mid,Yes
+26,0,18000.0,3.4,39.7,Master,Operations,Patna,Junior,No
+28,4,18000.0,,41.0,Master,Sales,Patna,Junior,Yes
+53,32,41950.0,3.9,38.1,Bachelor,Sales,Pune,Senior,No
+33,13,18876.0,3.9,38.9,Master,Engineering,Delhi,Mid,No
+33,10,18000.0,3.2,41.7,Master,HR,Bengaluru,Mid,No
+57,34,34720.0,3.9,45.1,Bachelor,Sales,Pune,Senior,No
+26,4,18000.0,3.2,39.9,Bachelor,Engineering,Patna,Junior,No
+57,35,37509.0,2.5,39.1,High School,HR,Patna,Senior,No
+57,37,38115.0,3.6,42.6,Master,HR,Kolkata,Senior,No
+44,18,22340.0,3.1,28.6,Master,,Bengaluru,Senior,No
+27,0,,3.0,45.3,Master,Engineering,Patna,Junior,Yes
+27,0,18000.0,4.3,42.0,Bachelor,Engineering,Patna,Junior,No
+32,8,18000.0,1.0,42.3,Master,Operations,Patna,Mid,Yes
+44,20,18158.0,1.7,48.7,Bachelor,Sales,Delhi,Senior,No
+27,4,18000.0,1.9,28.3,Master,Engineering,Bengaluru,Junior,Yes
+39,18,21790.0,2.7,28.2,Master,Engineering,Pune,Senior,No
+25,0,18000.0,2.8,43.9,Bachelor,Finance,Delhi,Junior,Yes
+42,16,19953.0,1.6,42.0,High School,Sales,Patna,Senior,Yes
+21,1,18000.0,2.1,43.2,Bachelor,Operations,Kolkata,Junior,No
+49,25,28342.0,2.2,38.8,Master,HR,Delhi,Senior,Yes
+23,0,18000.0,5.0,46.7,Master,Engineering,Kolkata,Junior,No
+28,7,18000.0,4.6,48.5,Master,Sales,Pune,Mid,No
+27,0,18000.0,2.6,45.4,Master,Engineering,Bengaluru,Junior,No
+54,29,29930.0,2.7,40.2,PhD,Operations,Kolkata,Senior,Yes
+23,0,18000.0,2.0,27.2,Master,Sales,Kolkata,Junior,Yes
+38,11,18000.0,1.3,47.4,Master,HR,Patna,Mid,No
+44,14,20652.0,2.9,50.6,Master,Engineering,Pune,Mid,Yes
+41,13,19431.0,2.1,46.5,Bachelor,,Delhi,Mid,No
+48,22,24497.0,2.9,35.8,Bachelor,Sales,Kolkata,Senior,Yes
+53,24,29572.0,1.6,46.7,Master,HR,Kolkata,Senior,Yes
+36,11,18000.0,2.3,48.0,Bachelor,Finance,Patna,Mid,Yes
+54,24,29796.0,3.1,52.9,Bachelor,Operations,Delhi,Senior,Yes
+33,5,18000.0,3.3,35.9,Bachelor,Operations,Pune,Mid,No
+60,33,36639.0,3.4,40.4,Master,,Kolkata,Senior,Yes
+41,12,20270.0,1.8,47.2,Bachelor,Engineering,Patna,Mid,Yes
+50,25,25074.0,3.8,42.4,High School,Finance,Delhi,Senior,No
+56,29,33615.0,2.3,34.2,Master,HR,Pune,Senior,Yes
+52,29,30914.0,3.6,44.9,Master,HR,Kolkata,Senior,Yes
+55,25,27941.0,3.0,46.1,Bachelor,Sales,Kolkata,Senior,Yes
+42,16,18000.0,1.8,42.6,Master,Operations,Patna,Senior,No
+22,0,18000.0,2.7,43.5,Bachelor,Finance,Pune,Junior,No
+40,15,22666.0,3.3,40.2,Master,Operations,Bengaluru,Senior,No
+28,0,18000.0,3.6,52.3,,Engineering,Pune,Junior,No
+56,36,43151.0,2.9,35.7,PhD,HR,Delhi,Senior,No
+30,9,18000.0,4.4,37.9,Bachelor,Operations,Pune,Mid,No
+30,5,18000.0,3.9,42.1,Master,Sales,Kolkata,Mid,No
+30,2,18000.0,2.8,48.2,Bachelor,Operations,Patna,Junior,No
+46,18,21510.0,3.7,31.5,Master,Operations,Kolkata,Senior,No
+43,19,24007.0,4.7,32.8,Master,Engineering,Pune,Senior,No
+58,31,42482.0,4.8,27.7,Bachelor,HR,Pune,Senior,No
+37,11,18000.0,1.9,42.2,Bachelor,Engineering,Bengaluru,Mid,Yes
+32,2,18000.0,2.2,34.2,Bachelor,HR,Bengaluru,Junior,No
+22,0,18000.0,4.3,39.3,Bachelor,Sales,Kolkata,Junior,No
+21,0,18000.0,2.0,46.6,PhD,Finance,Patna,Junior,Yes
+35,5,18000.0,1.8,37.5,Bachelor,Finance,Kolkata,Mid,Yes
+58,37,38831.0,2.6,43.6,Bachelor,HR,Bengaluru,Senior,Yes
+41,11,18000.0,3.4,39.9,,HR,Bengaluru,Mid,No
+56,35,39371.0,2.9,46.7,Bachelor,Operations,Patna,Senior,Yes
+25,2,18000.0,2.4,45.3,Bachelor,Operations,Patna,Junior,Yes
+24,0,18000.0,2.4,37.2,Master,Operations,Delhi,Junior,No
+54,26,39914.0,2.4,40.8,High School,Operations,Pune,Senior,Yes
+25,0,18000.0,2.2,49.3,Master,Finance,Bengaluru,Junior,Yes
+23,0,18000.0,5.0,44.8,Master,Finance,Pune,Junior,No
+37,10,18000.0,3.3,32.2,PhD,Engineering,Kolkata,Mid,No
+57,34,35082.0,3.8,46.6,Bachelor,HR,Patna,Senior,No
+48,28,37042.0,2.6,34.4,PhD,HR,Pune,Senior,Yes
+24,3,18000.0,2.8,51.9,High School,HR,Delhi,Junior,Yes
+54,31,38314.0,2.4,49.2,High School,HR,Bengaluru,Senior,No
+54,34,35882.0,1.0,44.0,Bachelor,Operations,Delhi,Senior,Yes
+53,28,30767.0,1.8,43.1,Bachelor,HR,Delhi,Senior,Yes
+57,29,31095.0,1.4,40.5,Master,Sales,Kolkata,Senior,Yes
+30,0,18000.0,1.0,46.7,Master,HR,Patna,Junior,Yes
+60,35,38374.0,1.9,39.4,Master,Finance,Bengaluru,Senior,Yes
+33,4,18000.0,4.2,43.6,High School,Sales,Bengaluru,Junior,Yes
+53,23,29256.0,3.0,48.1,Master,Engineering,Patna,Senior,No
+44,15,23718.0,4.2,38.1,,,Pune,Senior,No
+52,27,32261.0,3.4,37.7,Bachelor,Engineering,Kolkata,Senior,No
+46,23,22515.0,3.7,33.6,Bachelor,Operations,Delhi,Senior,Yes
+46,16,25358.0,2.2,34.5,Bachelor,Finance,Bengaluru,Senior,Yes
+45,23,24145.0,3.5,29.2,Bachelor,Sales,Bengaluru,Senior,No
+52,28,33243.0,3.7,47.1,High School,Sales,Patna,Senior,Yes
+50,30,32275.0,2.5,54.7,Master,Sales,Kolkata,Senior,Yes
+26,0,18000.0,3.5,52.0,Master,Engineering,Bengaluru,Junior,Yes
+54,27,30303.0,3.5,30.6,Bachelor,Engineering,Bengaluru,Senior,No
+42,22,25595.0,2.5,47.1,Master,Engineering,Patna,Senior,Yes
+33,11,18000.0,2.0,52.0,High School,HR,Bengaluru,Mid,Yes
+41,15,18000.0,1.9,38.8,High School,HR,Delhi,Senior,No
+59,34,39218.0,3.1,42.7,Master,Engineering,Delhi,Senior,Yes
+55,27,32096.0,3.3,27.9,High School,Finance,Patna,Senior,No
+54,32,35517.0,2.3,43.9,Master,Operations,Pune,Senior,Yes
+39,9,18000.0,3.0,34.6,Master,Engineering,Pune,Mid,No
+52,28,25407.0,3.5,43.4,High School,Finance,Pune,Senior,No
+36,7,18000.0,3.6,31.1,Bachelor,Engineering,Pune,Mid,Yes
+48,26,28005.0,4.4,45.8,Bachelor,HR,Bengaluru,Senior,No
+46,26,27240.0,4.1,49.2,Bachelor,HR,Bengaluru,Senior,No
+30,10,18000.0,2.1,36.5,Master,HR,Pune,Mid,Yes
+31,7,18000.0,4.5,34.0,Master,Finance,Bengaluru,Mid,No
+23,0,18000.0,2.5,26.9,Master,Finance,Pune,Junior,No
+26,6,18000.0,3.9,40.1,Master,Sales,Pune,Mid,No
+38,14,19607.0,3.1,37.9,Bachelor,HR,Delhi,Mid,No
+40,19,18993.0,2.6,31.1,High School,Finance,Pune,Senior,No
+27,0,18000.0,1.4,45.2,Bachelor,Operations,Patna,Junior,Yes
+37,10,18000.0,2.8,38.9,High School,Finance,Delhi,Mid,Yes
+45,17,21279.0,1.6,34.5,Bachelor,HR,Delhi,Senior,Yes
+30,3,18000.0,3.9,38.1,Master,Sales,Bengaluru,Junior,No
+34,7,18000.0,4.4,49.5,Master,HR,Patna,Mid,No
+35,7,18000.0,2.3,46.2,High School,Finance,Pune,Mid,Yes
+41,21,22321.0,3.3,41.1,Bachelor,Finance,Patna,Senior,Yes
+35,6,18000.0,2.3,46.3,High School,Operations,Bengaluru,Mid,Yes
+50,22,24610.0,2.4,33.9,Master,Operations,Bengaluru,Senior,No
+34,6,18000.0,3.7,42.2,Master,HR,Kolkata,Mid,Yes
+38,14,19840.0,3.0,43.0,Master,Sales,Bengaluru,Mid,Yes
+36,8,18000.0,4.6,38.7,Bachelor,HR,Delhi,Mid,No
+28,4,18000.0,2.6,45.0,Master,HR,Bengaluru,Junior,No
+48,28,32156.0,3.9,36.5,Bachelor,Finance,Pune,Senior,No
+30,1,18000.0,3.1,45.6,Bachelor,HR,Patna,Junior,Yes
+32,10,18000.0,3.7,45.9,Master,Operations,Kolkata,Mid,No
+52,31,37050.0,2.6,25.0,Master,,Delhi,Senior,No
+58,32,41525.0,3.0,50.3,Bachelor,Operations,Kolkata,Senior,Yes
+47,25,27062.0,2.9,25.0,Bachelor,HR,Patna,Senior,No
+57,28,,2.2,37.7,Bachelor,Finance,Bengaluru,Senior,Yes
+55,31,38471.0,3.6,49.2,Bachelor,HR,Bengaluru,Senior,Yes
+40,20,24596.0,3.6,39.8,Master,HR,Delhi,Senior,No
+51,21,28660.0,3.5,31.7,Bachelor,Engineering,Kolkata,Senior,No
+34,9,18415.0,4.4,34.3,High School,Finance,Patna,Mid,No
+39,17,21906.0,4.3,49.2,Bachelor,Operations,Bengaluru,Senior,No
+42,15,18000.0,2.7,28.5,Bachelor,Finance,Kolkata,Senior,No
+59,34,34045.0,3.3,49.9,High School,Engineering,Patna,Senior,Yes
+54,34,37192.0,2.4,41.6,Bachelor,Sales,Kolkata,Senior,No

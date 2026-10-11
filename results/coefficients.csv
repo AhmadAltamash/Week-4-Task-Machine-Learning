@@ -1,0 +1,23 @@
+,coefficient
+Satisfaction_Score,-0.4023
+Department_Engineering,-0.0743
+Department_HR,-0.07
+Job_Level_Junior,-0.0406
+Education_Bachelor,-0.0344
+City_Bengaluru,-0.0281
+City_Delhi,-0.024
+City_Kolkata,-0.0117
+Education_High School,0.0002
+Education_PhD,0.01
+Department_Finance,0.0133
+City_Pune,0.017
+Job_Level_Senior,0.0179
+Job_Level_Mid,0.0227
+Monthly_Income,0.0238
+Education_Master,0.0241
+City_Patna,0.0467
+Department_Sales,0.0616
+Department_Operations,0.0694
+Experience_Years,0.0876
+Age,0.0927
+Weekly_Work_Hours,0.1709
